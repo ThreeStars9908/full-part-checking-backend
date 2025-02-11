@@ -1,0 +1,42 @@
+model/td-hm_hrnet-w48_8xb32-210e_coco-256x192-0e67c616_20220913.pth
+model/td-hm_hrnet-w48_8xb32-210e_coco-256x192.py
+
+# Python
+__pycache__/
+.pytest_cache/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Pytest
+.cache/
+*.cover
+*.xml
+*.html
+*.pkl
+*.pytest_cache/
+
+# Miscellaneous
+*.DS_Store
+*.egg-info/
+dist/
+build/
+*.egg
+
